@@ -1,68 +1,32 @@
-# 👋 Hi, I'm Syed Ali Hasan Moosavi
+# Hi, I am Syed Ali Hasan Moosavi 👋
 
-**Founder & Managing Director**  
-[Sayanjali Nexus Pvt. Ltd.](https://www.sayanjalinexus.com)  
-📍 Hyderabad, India  
-✉️ shalimoosavi@gmail.com  
+## About Me
+A passionate developer and blockchain enthusiast with expertise in Solidity, Ethereum, Python, and building secure, scalable solutions for digital assets.
 
----
+- 🌐 Website: [www.sayanjalinexus.com](http://www.sayanjalinexus.com)
+- 🏢 Company: Sayanjali Nexus Pvt. Ltd.
+- 📍 Location: Hyderabad, Telangana, India
+- 📧 Email: syedalihasanmoosavi1@gmail.com
 
-## 💡 Top Skills & Technologies
+## 🛠️ Skills
+![Solidity](https://img.shields.io/badge/-Solidity-blue) ![Ethereum](https://img.shields.io/badge/-Ethereum-purple) ![Python](https://img.shields.io/badge/-Python-green)
 
-- 💼 **Startup & Brand Management**  
-  Leading 10+ verticals including e-commerce, FBA, cloud kitchens, crypto, and sustainability.
+## 🚀 Projects
+### Blockchain Voting System
+An innovative decentralized voting system utilizing Ethereum smart contracts.
+[View Repository](https://github.com/Moosavi72/blockchain-voting)
 
-- 📱 **Web & App Strategy**  
-  Building token landing pages, app UI mockups, user journeys, and GitHub-hosted sites.
+### Secure Digital Wallet
+Developed a secure multi-signature wallet for managing digital assets.
+[View Repository](https://github.com/Moosavi72/digital-wallet)
 
-- 🪙 **Crypto Product Development**  
-  End-to-end development of SYJ Token: tokenomics, whitepaper, smart contract integration, and app ecosystem.
+### Python Automation Scripts
+A collection of Python scripts for automating mundane tasks.
+[View Repository](https://github.com/Moosavi72/python-automation)
 
-- 🌐 **Digital Branding & Content Creation**  
-  Personal and company branding using Canva, AI tools, and content automation.
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/syed-ali-hasan-moosavi-237734378)
+- [GitHub](https://github.com/Moosavi72)
+- [Website](http://www.sayanjalinexus.com)
 
-- 🧠 **Team Coordination & Project Execution**  
-  Managing devs, designers, and content creators to deliver results across platforms.
-
-- 🛠️ **Tools & Platforms:**  
-  `GitHub` · `HTML/CSS` · `Canva` · `ChatGPT` · `DNS Email Setup` · `Telegram Bots` · `InVideo AI`
-
----
-
-## 🚀 Current Projects @ Sayanjali Nexus
-
-| Project              | Description                                                                 |
-|----------------------|-----------------------------------------------------------------------------|
-| **SYJ Token**        | Purpose-driven mining token ecosystem. Website, tokenomics, app, contracts. |
-| **Cloud Kitchen**    | Hyperlocal food delivery brands under a central backend system.             |
-| **Amazon FBA Setup** | Multi-brand onboarding, listing kits, packaging docs, and brand registry.   |
-| **Zero Waste Store** | Eco-commerce initiative promoting sustainability through packaging.         |
-| **Founder Branding** | Strategic personal brand for investor visibility and crypto credibility.    |
-
----
-
-## 🌍 Languages
-
-English · Arabic · Hindi · Urdu · Telugu
-
----
-
-## 🔗 Links
-
-- 🌐 [www.sayanjalinexus.com](https://www.sayanjalinexus.com)
-- 📧 shalimoosavi@gmail.com
-- 🐦 [Twitter: @shalimoosavi](https://x.com/shalimoosavi?s=21)
-- 💼 [LinkedIn: Syed Ali Hasan Moosavi](https://www.linkedin.com/in/syed-ali-hasan-moosavi-237734378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
----
-
-## 🤩 Fun Fact
-
-I once managed live transport operations across India, Saudi Arabia, and Qatar, worked in networking, CRM, sales, and customer support — all before launching a crypto mining token and founding Sayanjali Nexus Pvt. Ltd. from my home office.  
-**Legacy building isn’t just business — it’s personal.**
-
----
-
-## 💬 Favorite Quote
-
-> "Driven by Purpose. Built for Legacy."
+Let's collaborate and innovate together!
